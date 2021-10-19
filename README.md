@@ -11,3 +11,5 @@ There are two ways you can start this program.
   
   
   If you start the program the 1. way, than you can enter your own text you want to translate on the command line.
+
+  To compile the program use the command `gcc -o loesung -O3 -std=c11 -Wall -Werror -DNDEBUG loesung.c`
